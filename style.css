@@ -8,3 +8,11 @@ h3 {
     font-size: 24px;
     font-weight: 700;
 }
+
+#cidade {
+    font-style:italic;
+}
+
+img {
+    border-radius: 50%;
+}
