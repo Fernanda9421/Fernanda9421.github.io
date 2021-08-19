@@ -1,9 +1,45 @@
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: rgb(252, 239, 230);
 }
 
 h3 {
     color: rgb(92, 92, 81);
     font-size: 24px;
     font-weight: 700;
+}
+
+#cidade {
+    font-style:italic;
+}
+
+img {
+    border-radius: 50%;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 25px;
+}
+
+.habilidade1 {
+    font-size: 22px;
+}
+
+.habilidade2 {
+    font-size: 20px;
+}
+
+.habilidade3 {
+    font-size: 18px;
+}
+
+.habilidade4 {
+    font-size: 16px;
+}
+
+.habilidades {
+    line-height: 22px;
 }
